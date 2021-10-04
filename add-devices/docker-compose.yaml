@@ -1,0 +1,7 @@
+version: "3.2"
+
+services:
+  ubuntu-usb:
+    image: ubuntu:20.04
+    devices:
+      -
